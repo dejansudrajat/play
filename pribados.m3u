@@ -4689,8 +4689,6 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/n
 #EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-
-
 #EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/578/539/png-transparent-indihome-speedy-logo-telkom-indonesia-speedy-text-logo-sign.png",
 #EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", Bioskop Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -6533,6 +6531,296 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.m
 
 
 
+``````` VISION ```````
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TRANS7
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/Trans7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ALJAZEERA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/aljazeera.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ANIMAL PLANET
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/animalplanet.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ANIMAX
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/animax.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ANTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/antv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", AXN
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/axn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", BIOSKOP INDONESIA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/bioskopindonesia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", BTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/btv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CCM
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/ccm.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CELEBRITIES TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/celebritiestv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CELESTIAL MOVIE
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/celestialmovie.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CGTN
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CGTN DOCUMENTARY
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cgtndocumentary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CINEMA ASIA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cinemaasia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CINEMACHI
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cinemachi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CINEMACHI ACTION
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cinemachiaction.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CINEMACHI EXTRA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cinemachiextra.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CINEMACHI KIDS
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cinemachikids.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CINEMACHI MAX
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cinemachimax.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CINEMAWORLD
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cinemaworld.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CITRA BIOSKOP
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/citrabioskop.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CITRA DRAMA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/citradrama.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CNA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cna.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", CNBC INTERNATIONAL
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/cnbcinternational.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISCOVERY
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/discovery.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISCOVERY HISTORY
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/discoveryhistory.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISCOVERY INVESTIGATION
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/discoveryinvestigation.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISCOVERY SCIENCE
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/discoveryscience.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISCOVERY TURBO
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISNEY JR
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/disneyJR.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISNEY XD
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/disneyXD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DISNEY CHANNEL
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DREAMWORK
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/dreamwork.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", DW
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/dw.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ENT
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/ent.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", FAMILY CINEMA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/familycinema.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", FIGHT SPORT
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/fightsport.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", FLIX
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/flix.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", FMN
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/fmn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", FOX NEWS
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/foxnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", FRANCE 24
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/france24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", GEM
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/gem.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", GTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/gtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", HGTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/hgtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", HISTORY
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/history.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", HITS
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/hits.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", HITS MOVIES
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/hitsmovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", IDX
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/idx.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", INDOSIAR
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/indosiar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", INEWS
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/inews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", JAKTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/jaktv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", JTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/jtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", KIDS TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/kidstv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", KIX
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/kix.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", KOMPAS TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/kompastv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", LIFE TIME
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/lifetime.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", LOVE NATURE
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/lovenature.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", MEKKAH TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/mekkahtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", METRO TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/metrotv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", MNCTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", MOJI
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/moji.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", MUHAMMADIYAH TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/muhammadiyahtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", MUSLIM TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/muslimtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", MY CINEMA
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/mycinema.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", MY KIDZ
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/mykidz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", NAT GEO
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", NAT GEO WILD
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/natgeowild.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", NET TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/net.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", NHK WORLD
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/nhkworld.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", OKEZONE
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/okezone.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", OKTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/oktv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ONE
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/one.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", OUTDOOR
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/outdoor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", PARAMOUNT
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/paramount.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", RCTI
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/rcti.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", RTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/rtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", SCTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/sctv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", SINDO NEWS
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/sindonews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", SPORT STAR
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/sportstar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", SPOTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/spotv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TAWAF TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tawaftv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", THRILL
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/thrill.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TRANS TV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/transTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TV3MY
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tv3my.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TV8MY
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tv8my.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TV9MY
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tv9my.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TVN
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tvn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TVN MOVIES
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tvnmovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TV ONE
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tvone.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TVRI
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tvri.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", TVRI NASIONAL
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/tvrinasional.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", VISION PRIME
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/visionprime.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", VTV
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/vtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", XINGKONG
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/xingkong.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ZEE BIOSKOP
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/zeebioskop.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISION", ZOOMOO
+https://raw.githubusercontent.com/dejansudrajat/vision-/main/zoomoo.m3u8
+
 
 
 
@@ -6549,9 +6837,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PW2CnHH/rtbsukma.png" group-title="WORLD TV", RTB SUKMAINDERA 🇧🇳
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="WORLD TV" tvg-name="La 1", LA 1 🇪🇸
