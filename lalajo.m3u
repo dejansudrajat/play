@@ -5,327 +5,569 @@
 
 #EXTINF:-1 group-logo="",
 
-````````` EVENTS ``````
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K BEIN
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4kbein.m3u8
+`````````` ARENA SPORTS ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR1 
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K ELEVEN
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4keleven.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR2
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K HUB SPORT
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4khubsport.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR3
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K NEW SPORT
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4knowsport.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR4
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K SKY F1
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4kskyf1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT SR1
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportSR1.m3u8
+
+```````````````````````````````````
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K SKY MAIN EVENT
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4kskymainevent.m3u8
+
+`````````` ASTRO ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTROAURA
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astroaura.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K SPORT TV
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4ksporttv.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTROCERIA
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astroceria.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", 4K SPORT
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/4kvsport.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTROCITRA
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrocitra.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRORANIA
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrorania.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRORIA
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astroria.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT1
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT2
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT3
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport3.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT4
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport4.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO UHD
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosportUHD.m3u8
+
+```````````````````````````````````
+
+
+
+`````````` FOX SPORTS ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 501
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport501.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 502
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport502.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 503
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport503.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 504
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport504.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 505
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport505.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 506
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport506.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 507
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport507.m3u8
+
+````````````````````````````````
+
+
+
+`````````` HUB SPORTS ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsport1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsport2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsport3.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL4.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL5.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 6
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL6.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 7
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL7.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 8
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL8.m3u8
+
+ 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 9
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 10
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT UHD
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportUHD.m3u8
+
+````````````````````````````````
+
+
+
+`````````` HBO ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO CINEMAX
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hbocinemax.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO FAMILY
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hbofamily.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO HITS
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hbohits.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO ID
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hboid.m3u8
+
+````````````````````````````````
+
+
+
+`````````` NOW SPORT ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport3.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport5.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 6
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport6.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 7
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport7.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 8
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 9
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 10
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL3.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 11
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL4.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 12
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL5.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K1
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K2
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K3
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k3.m3u8
+
+`````````````````````````````````
+
+
+
+`````````` BUNDESLIGA ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 1
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EVENT SPORTS", BUNDESLIGA 2
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EVENT SPORTS", BUNDESLIGA 3
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EVENT SPORTS", BUNDESLIGA 4
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EVENT SPORTS", BUNDESLIGA 5
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EVENT SPORTS", BUNDESLIGA 6
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EVENT SPORTS", BUNDESLIGA 7
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", BUNDESLIGA 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EVENT SPORTS", BUNDESLIGA 8
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga8.m3u8
 
+`````````````````````````````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 1
+
+
+`````````` EPL ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 1
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 10
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl10.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 11
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 11
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl11.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 12
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 12
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl12.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 13
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 13
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl13.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 2
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 3
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 4
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 5
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 6
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 7
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 8
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl8.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", EPL 9
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 9
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl9.m3u8
 
+`````````````````````````````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", FORMULA1 1
+
+
+`````````` FORMULA 1 ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 1
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula11.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", FORMULA1 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 2
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula12.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", FORMULA1 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 3
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula13.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", FORMULA1 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 4
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula14.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", FORMULA1 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 5
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula15.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", FORMULA1 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 6
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula16.m3u8
 
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LALIGA 1
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga1.m3u8
+`````````````````````````````````
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LALIGA 2
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga2.m3u8
 
+`````````` MOTOGP ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LALIGA 3
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga3.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LALIGA 4
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga4.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LALIGA 5
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga5.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LALIGA 6
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga6.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 1
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali1.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 10
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali10.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 2
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali2.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 3
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali3.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 4
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali4.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 5
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali5.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 6
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali6.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 7
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali7.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 8
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali8.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", LIGA ITALI 9
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali9.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", MOTO GP 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 1
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", MOTO GP 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 2
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", MOTO GP 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 3
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", MOTO GP 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 4
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", MOTO GP 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 5
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", MOTO GP 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 6
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", MOTO GP 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 7
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp7.m3u8
 
+`````````````````````````````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 1
+
+
+`````````` LA LIGA ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 1
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 2
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 3
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga3.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 4
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga4.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 5
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga5.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 6
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga6.m3u8
+
+`````````````````````````````````
+
+
+
+`````````` LIGA ITALI ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 1
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali1.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 10
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali10.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 2
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali2.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 3
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali3.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 4
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali4.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 5
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali5.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 6
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali6.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 7
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali7.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 8
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali8.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 9
+https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali9.m3u8
+
+`````````````````````````````````
+
+
+
+`````````` SERIE A ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 1
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 10
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria10.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 2
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 3
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 4
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 5
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 6
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 7
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 8
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria8.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", SERIA 9
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 9
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria9.m3u8
 
+`````````````````````````````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 1
+
+
+`````````` UUCL ``````````
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 1
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 10
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl10.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 11
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 11
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl11.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 12
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 12
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl12.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 2
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 3
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 4
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 5
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 6
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 7
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 8
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl8.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://w7.pngwing.com/pngs/872/540/png-transparent-computer-icons-event-management-event-miscellaneous-angle-text-thumbnail.png" group-title="EVENTS", UUCL 9
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 9
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl9.m3u8
 
-
+`````````````````````````````````
 
 
 ```````EVENT UEL``````
