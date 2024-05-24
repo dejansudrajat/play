@@ -40,15 +40,11 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191860.m3u8
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrocitra.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/3k16CvX/aspremier.png" ,group-title="ASTRO", ASTRO PREMIER
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/3k16CvX/aspremier.png" group-title="ASTRO", ASTRO PREMIER
 #EXTGRP: MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5128/default_primary.mpd
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRORIA
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroria.m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT1
