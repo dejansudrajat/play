@@ -5,141 +5,35 @@
 
 #EXTINF:-1 group-logo="",
 
-`````````` ARENA SPORTS ``````````
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR1 
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR1.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR2
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR2.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR3
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR3.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT HR4
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportHR4.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ARENA SPORTS", ARENA SPORT SR1
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/arenasportSR1.m3u8
-
-```````````````````````````````````
-
-
-
-`````````` ASTRO ``````````
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTROCERIA
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191860.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTROCITRA
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrocitra.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT1
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport1.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT2
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport2.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT3
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport3.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO SPORT4
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosport4.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ASTRO", ASTRO UHD
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/astrosportUHD.m3u8
-
-```````````````````````````````````
-
-
 
 `````````` FOX SPORTS ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 501
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 501 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport501.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 502
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 502 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport502.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 503
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 503 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport503.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 504
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 504 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport504.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 505
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 505 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport505.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 506
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 506 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport506.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 507
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FOX SPORTS", FOX SPORT 507 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/foxsport507.m3u8
-
-````````````````````````````````
-
-
-
-`````````` HUB SPORTS ``````````
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 1
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsport1.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 2
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsport2.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 3
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsport3.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 4
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL4.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 5
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL5.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 6
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL6.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 7
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL7.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 8
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL8.m3u8
-
- 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 9
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL1.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT 10
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportEPL2.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HUB SPORTS", HUB SPORT UHD
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportUHD.m3u8
 
 ````````````````````````````````
 
@@ -147,19 +41,19 @@ https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hubsportUHD.m3u8
 
 `````````` HBO ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO CINEMAX
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO CINEMAX FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hbocinemax.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO FAMILY
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO FAMILY FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hbofamily.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO HITS
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO HITS FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hbohits.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO ID
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="HBO", HBO ID FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hboid.m3u8
 
 ````````````````````````````````
@@ -168,101 +62,64 @@ https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/hboid.m3u8
 
 `````````` NOW SPORT ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 1 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 5 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 6 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 7 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT EPL 1 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 9
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT EPL 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT EPL 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 11
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT EPL 4 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 12
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT EPL 5 FHD
 https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsportEPL5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K1
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k1.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K 1
+`https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K2
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k2.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K 2
+`https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K3
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k3.m3u8
-
-`````````````````````````````````
-
-
-
-`````````` BUNDESLIGA ``````````
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 1
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga1.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 2
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga2.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 3
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga3.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 4
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga4.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 5
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga5.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 6
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga6.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 7
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga7.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="BUNDESLIGA", BUNDESLIGA 8
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundesliga8.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="NOW SPORT", NOW SPORT 4K 3
+`https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/nowsport4k3.m3u8
 
 `````````````````````````````````
 
@@ -270,84 +127,84 @@ https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/bundes
 
 `````````` EPL ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 1
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl1.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 1 FHD
+`#https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 10 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl10.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 11
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 11 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl11.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 12
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 12 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl12.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 13
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 13 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl13.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 4 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 5 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 6 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 7 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 8 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl8.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 9
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EPL", EPL 9 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/epl9.m3u8
 
 `````````````````````````````````
 
 
 
-`````````` FORMULA 1 ``````````
+`````````` F1 ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="F1", FORMULA1 1 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula11.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="F1", FORMULA1 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula12.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="F1", FORMULA1 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula13.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="F1", FORMULA1 4 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula14.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="F1", FORMULA1 5 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula15.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="FORMULA 1", FORMULA1 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="F1", FORMULA1 6 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formula16.m3u8
 
 `````````````````````````````````
@@ -356,61 +213,32 @@ https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/formul
 
 `````````` MOTOGP ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 1 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 4 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 5 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 6 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MOTOGP", MOTO GP 7 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/motogp7.m3u8
-
-`````````````````````````````````
-
-
-
-`````````` LA LIGA ``````````
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 1
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga1.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 2
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga2.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 3
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga3.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 4
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga4.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 5
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga5.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LA LIGA", LA LIGA 6
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga6.m3u8
 
 `````````````````````````````````
 
@@ -418,43 +246,43 @@ https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/laliga
 
 `````````` LIGA ITALI ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 1 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 10 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali10.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 4 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 5 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 6 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 7 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 8 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali8.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 9
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="LIGA ITALI", LIGA ITALI 9 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligaitali9.m3u8
 
 `````````````````````````````````
@@ -463,44 +291,44 @@ https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/ligait
 
 `````````` SERIE A ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 1 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 10 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria10.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 4 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 5
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria5.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 5 FHD
+`#https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 6 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 7
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria7.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 7 FHD
+`https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 8 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria8.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 9
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria9.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIA", SERIA 9 FHD
+`https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria9.m3u8
 
 `````````````````````````````````
 
@@ -508,48 +336,48 @@ https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/seria9
 
 `````````` UUCL ``````````
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 1 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl1.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 10
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 10 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl10.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 11
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl11.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 11 FHD
+`https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl11.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 12
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl12.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 12 FHD
+`https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl12.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 2 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl2.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 3 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl3.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 4
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl4.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 4 FHD
+`https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl4.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 5
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl5.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 5 FHD
+`https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl5.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 6 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl6.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 7
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 7 FHD
 https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl7.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 8
-https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl8.m3u8
+`#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 8 FHD
+`https://raw.githubusercontent.com/Arrasyid22/eventcustomM3U/akunInaldie22/uucl8.m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UUCL", UUCL 9
@@ -6006,38 +5834,38 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 https://mhdtv.co.in/jio/stream.m3u8?id=2757
 
 
-````````````````````````````````` MOLA `````````````````````````````````
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="SPORTS", Mixed Event 1
+````````````````````````````````` MOLA TV `````````````````````````````````
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="MOLA TV", MOLA Event 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="SPORTS", Mixed Event 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="MOLA TV", MOLA Event 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="SPORTS", Mixed Event 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="MOLA TV", MOLA Event 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="SPORTS", Mixed Event 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="MOLA TV", MOLA Event 4
 https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="SPORTS", Mixed Event 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="MOLA TV", MOLA Event 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="SPORTS", Mixed Event 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="MOLA TV", MOLA Event 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png", group-title="SPORTS", Mixed Event 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png", group-title="MOLA TV", MOLA Event 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
