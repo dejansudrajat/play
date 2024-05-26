@@ -5010,19 +5010,17 @@ https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/
 
 #EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", USEE-SPORT1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
+##https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", USEE-SPORT2
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
+##https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
