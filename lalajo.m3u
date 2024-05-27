@@ -5083,11 +5083,11 @@ https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", USEE-SPORT1
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/useesport1.m3u8
+#EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", USEE-SPORT 1 Test
+http://103.157.26.154:25461/live/relaxtv/ywu27tesf/241.m3u8
 
-#EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", USEE-SPORT2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/useesport2.m3u8    
+#EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", USEE-SPORT 2 Test
+http://103.157.26.154:25461/live/relaxtv/ywu27tesf/242.m3u8    
 
 #EXTINF:-1 group-title="INDIHOME TV" tvg-logo="_______", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
