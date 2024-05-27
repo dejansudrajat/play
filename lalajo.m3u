@@ -1167,13 +1167,12 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:-1 tvg-id=" " group-title="LIGA INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10",INDOSIAR 2 HD
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-`#KODIPROP:inputstream.adaptive.license_type=clearkey
-`#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-`#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-`#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-`https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-`#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIGA INDONESIA", INDOSIAR 3
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
