@@ -1162,29 +1162,26 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
 ``````````````````````````
 
 ==================================================================================================================================================================
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIGA INDONESIA"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIGA INDONESIA", INDOSIAR 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="LIGA INDONESIA"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="LIGA INDONESIA", BRI LIGA 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTINF:-1 tvg-id=" " group-title="LIGA INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10",INDOSIAR 2 HD
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="LIGA INDONESIA", BRI LIGA 1 FHD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://210.210.155.35/uq2663/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="LIGA INDONESIA", BRI LIGA 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 tvg-id=" " group-title="LIGA INDONESIA" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png", BRI LIGA 1 SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIGA INDONESIA", INDOSIAR 3
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="LIGA INDONESIA",LIGA BRI VD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://210.210.155.35/uq2663/h/h207/index.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="LIGA INDONESIA", INDOSIAR 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 
 ========================================================================
