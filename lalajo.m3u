@@ -1175,6 +1175,12 @@ http://210.210.155.35/uq2663/h/h207/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="LIGA INDONESIA", BRI LIGA 1 HD VIDIO
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd
+
 #EXTINF:-1 tvg-id=" " group-title="LIGA INDONESIA" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png", BRI LIGA 1 SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
