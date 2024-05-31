@@ -63,10 +63,10 @@ https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 group-title="LIGA BRI"tvg-logo=" ", BRI Liga 1 Test 1
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri100.m3u8
+https://raw.githubusercontent.com/dejansudrajat/play/main/ligabri1_0.m3u8
 
 #EXTINF:-1 group-title="LIGA BRI"tvg-logo=" ", BRI Liga 1 Test 2
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri1100.m3u8
+https://raw.githubusercontent.com/dejansudrajat/play/main/ligabri1_1.m3u8
 
 
 =============================================
