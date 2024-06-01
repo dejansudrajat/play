@@ -193,7 +193,7 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="MCHANNEL | MOLA TV", MOLA Event 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5v8PZLs/mixedevent.png" group-title="CHANNEL | MOLA TV", MOLA Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
