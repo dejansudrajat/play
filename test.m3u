@@ -69,7 +69,7 @@ https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://raw.githubusercontent.com/dejansudrajat/play/main/ligabri1_0.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-logo=" ", BRI Liga 1 (INDOSIAR 2)
-https://raw.githubusercontent.com/dejansudrajat/play/main/ligabri1_1.m3u8
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/indosiar.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-logo=" ", BRI Liga 1 (SPORTSTARS 3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
